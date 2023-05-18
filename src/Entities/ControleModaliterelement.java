@@ -14,7 +14,7 @@ import AccesBD.DAOElement;
 import AccesBD.DAOPossede;
 import Metier.Element;
 import Metier.ModaliteElem;
-
+/**********Edit ControleModaliterelement.java */
 @WebServlet("/ControleModaliterelement")
 public class ControleModaliterelement extends HttpServlet {
 	private static final long serialVersionUID = 1L;
