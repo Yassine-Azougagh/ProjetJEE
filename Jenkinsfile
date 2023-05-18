@@ -8,7 +8,7 @@ pipeline {
                 sh """git --version""";
                 echo 'Pulling...';
                 git branch :'master',url:'https://github.com/Yassine-Azougagh/ProjetJEE.git';
-                git clone 'https://github.com/Yassine-Azougagh/ProjetJEE.git';
+                //git clone 'https://github.com/Yassine-Azougagh/ProjetJEE.git';
                 sh """date""";
             }
         }
