@@ -3,7 +3,8 @@ package AccesBD;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-
+gfdgsfhaihsfih
+sdfjqhdsoi
 public class ConnectionBD {
     static Connection con=null;
     public ConnectionBD() {
